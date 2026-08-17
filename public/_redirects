@@ -1,0 +1,3 @@
+http://cableviewpoint.com/* https://cableviewpoint.com/:splat 301!
+http://www.cableviewpoint.com/* https://cableviewpoint.com/:splat 301!
+https://www.cableviewpoint.com/* https://cableviewpoint.com/:splat 301!
