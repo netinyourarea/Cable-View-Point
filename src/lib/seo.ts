@@ -33,7 +33,7 @@ export function pageSchema(pathname: string) {
       email: CONTACT_EMAIL,
       contactPoint: {
         "@type": "ContactPoint",
-        telephone: "+1-855-467-0660",
+        telephone: "+1-844-535-2723",
         contactType: "customer support",
         areaServed: "US",
         availableLanguage: "English",
@@ -56,7 +56,7 @@ export function pageSchema(pathname: string) {
       name: SITE_NAME,
       url: SITE_URL,
       image: `${SITE_URL}/logo.png`,
-      telephone: "+1-855-467-0660",
+      telephone: "+1-844-535-2723",
       email: CONTACT_EMAIL,
       areaServed: {
         "@type": "Country",
